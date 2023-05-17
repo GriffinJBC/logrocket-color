@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "logrocket-ios-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LogRocket/logrocket-ios-swift-package",
+      "state" : {
+        "revision" : "fe5bfd4de273ba4416931fb1d6eb032ca72e6df6",
+        "version" : "1.16.0"
+      }
+    }
+  ],
+  "version" : 2
+}
